@@ -8,7 +8,7 @@ This project contains:
 - a **Matrix** class to effectivly compute Matrix operations, store and load matrices
 - a **MatPowerSeries** class to compute any matrix power series
 - a **Calc** class with example scripts
-- many more usefull methods
+- many more useful methods
 
 **Application:** These methods are used to **provide a solution to the Jane Street Puzzle "Andy's Morning Stroll" from July 2022** (https://www.janestreet.com/puzzles/andys-morning-stroll-index/), which I handed in successfully. The step-by-step calculations can be executed in the Calc class while important adjacency matrices and graphs are stored in the main folder.
 
