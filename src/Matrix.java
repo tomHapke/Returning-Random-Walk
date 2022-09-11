@@ -5,7 +5,7 @@ import java.util.Locale;
 public class Matrix {
 
     /**
-     * Two class variables of Matrix Type,that act as cache when performing matrix computations.
+     * Two class variables of Matrix Type, that act as a cache when performing matrix computations.
      */
     public static Matrix cache1;
     public static Matrix cache2;
