@@ -5,7 +5,7 @@ This project contains:
 - a **Graph** class to represent weighted graphs, initialize graphs from adjacency matrices and create adjacency matrices vise versa
 - a **GraphWalker** class to simulate returning random walks
 - a **GraphPrinter** class to print graphs as png- and dot-files (Graphiz must be installed and linked in PATH)
-- a **Matrix** class to effectivly compute Matrix operations, store and load matrices
+- a **Matrix** class to effectively compute Matrix operations, store and load matrices
 - a **MatPowerSeries** class to compute any matrix power series
 - a **Calc** class with example scripts
 - many more useful methods
