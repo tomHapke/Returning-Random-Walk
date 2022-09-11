@@ -1,5 +1,5 @@
 # ReturningRandomWalk
-project for computations and simulations concerning returning-random-walks on graphs and transition matrices
+Project for computations and simulations concerning returning-random-walks on graphs and transition matrices
 
 This project contains:
 - a **Graph** class to represent weighted graphs, initialize graphs from adjacency matrices and create adjacency matrices vise versa
