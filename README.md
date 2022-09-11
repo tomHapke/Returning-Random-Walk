@@ -10,7 +10,7 @@ This project contains:
 - a **Calc** class with example scripts
 - many more useful methods
 
-**Application:** These methods are used to **provide a solution to the Jane Street Puzzle "Andy's Morning Stroll" from July 2022** (https://www.janestreet.com/puzzles/andys-morning-stroll-index/), which I handed in successfully. The step-by-step calculations can be executed in the Calc class while important adjacency matrices and graphs are stored in the main folder.
+**Application:** These methods are applied to **provide a solution to the Jane Street Puzzle "Andy's Morning Stroll" from July 2022** (https://www.janestreet.com/puzzles/andys-morning-stroll-index/), which I handed in successfully. The step-by-step calculations can be executed in the Calc class while important adjacency matrices and graphs are stored in the main folder.
 
 
 **Format for storing adjacency matrice:**
