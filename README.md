@@ -18,7 +18,5 @@ Format for storing adjacency matrice:
 - entries are separated by " , "
 
 Explanation of the puzzle solution:
-We first need to compute the expected value of the length of a returning random walk on the football graph (football_AdjM_noWeights.txt).
-Therefore, we compute the probability of a random walk to return after less or exact k steps. As it is impossible for a walker to 
-return after 1 steps and the case of zero steps is excluded, we have to manipulate the
-adjacency matrix $$A_0$$ (football_AdjM.txt) by deleting the edge to walk away from the starting point
+We first need to compute the expected value of the length of a returning random walk 
+on the football graph (football_AdjM_noWeights.txt). Therefore, we compute the probability of a random walk to return after less or exact k steps. As it is impossible for a walker to return after 1 steps and the case of zero steps is excluded, we have to manipulate the adjacency matrix (football_AdjM.txt) by deleting the edge to walk away from the starting point (set the enties (1,0),(2,0) and (3,0) to zero) to obtain the Transition Matrix A. Therefore, the probability of a random walk to return after less or exact k steps (k being greater than 1) can be computed by taking the first entry of the vector &&A^(k-1)v&&
