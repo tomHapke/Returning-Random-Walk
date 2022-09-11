@@ -105,7 +105,7 @@ public class Calc {
      */
     @Test
     void randomWalkExactProbabilities() throws IOException {
-        int depth=10;
+        int depth=5;
         int power=19;
 
         Graph g= Graph.buildHexaGrid(depth);
